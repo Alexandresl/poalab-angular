@@ -1,0 +1,12 @@
+.equipment {
+    min-height: calc(100% - 100px);
+    background-color: #3854A6;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.equipment h3,
+.links h3 {
+    color: #fff;
+}

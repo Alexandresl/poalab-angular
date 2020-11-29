@@ -1,0 +1,29 @@
+.links h3 {
+    color: #fff;
+}
+
+.links {
+    background-color: #12A646;
+    padding: 20px 0;
+}
+
+.links ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.links ul li {
+    width: 16%;
+    height: auto;
+    margin: 5px 1%;
+    display: flex;
+    padding: 0 1%;
+    align-items: center;
+    justify-content: center;
+}
+
+.links ul li a img {
+    width: 80%;
+}

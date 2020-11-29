@@ -1,0 +1,24 @@
+.gallery {
+    min-height: calc(100% - 100px);
+    background-color: #12A646;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #fff;
+    width: 100%;
+}
+
+.gallery ul,
+.equipment ul {
+    list-style: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery ul li {
+    margin: 5px;
+    border: 2px solid #fff;
+}

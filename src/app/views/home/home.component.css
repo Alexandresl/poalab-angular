@@ -1,0 +1,33 @@
+.about-us {
+    min-height: 600px;
+    background-color: #3854A6;
+    background-image: url("../../../assets/caminho5.png");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    color: #F2F2F2;
+    width: 100%;
+}
+
+.open-day {
+    padding-top: 100px;
+    background-color: #12A646;
+    color: #fff;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.open-day .row.title h3,
+.gallery h3 {
+    margin: 15px;
+    text-shadow: 15px 10px #3853a686;
+}
+
+.open-day img {
+    border: 2px solid #F2F2F2;
+    border-radius: 0 50px 5px 0;
+}
+
+.about-us img {
+    border: 2px solid #F2F2F2;
+    border-radius: 50px 0 5px;
+}

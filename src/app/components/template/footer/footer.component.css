@@ -1,0 +1,49 @@
+footer {
+    background-color: #f4f4f4;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0 5px 0;
+    color: #3854A6;
+    text-shadow: 1px 1px 1px #fff;
+    font-size: 1rem;
+}
+
+footer a {
+    color: #118C3C;
+}
+
+footer .contact {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+footer .contact p {
+    width: 100%;
+    text-align: center;
+}
+
+footer .address {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+footer .address p {
+    width: 100%;
+    text-align: center;
+}
+
+footer .logo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .logo img {
+    max-height: 150px;
+    margin: 0 0 20px 0;
+}
